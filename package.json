@@ -1,0 +1,16 @@
+{
+  "name": "Project4",
+  "version": "1.0.0",
+  "description": "WDI Project 3",
+  "main": "index.js",
+  "repository": "https://github.com/noobnur/project-4.git",
+  "author": "noobnur <nurhsans@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.12.1"
+  },
+  "scripts": {
+    "start": "nodemon"
+  }
+}
